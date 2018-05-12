@@ -1,10 +1,14 @@
 _repo: Birds-and-Nature-Vol-9-No-5-May-1901-Illustrated-by-Color-Photography_47636
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Higley, William Kerr
       gutenberg_agent_id: '44342'
       url: http://www.gutenberg.org/2009/agents/44342
+covers:
+- cover_type: archival
+  image_path: 47636-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47636#Birds-and-Nature-Vol-9-No-5-May-1901-Illustrated-by-Color-Photography
 gutenberg_issued: '2014-12-12'
 gutenberg_type: Text
 identifiers:
